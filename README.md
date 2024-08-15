@@ -72,5 +72,5 @@ pytest
 - To customize the html report title, you can adjust it in `conftest.py`.
 
 ## Screenshot of test results
-![](https://miro.medium.com/v2/resize:fit:1400/1*-W7o91pkbw7u4I9TY-rGPw.png)
-![](https://i.sstatic.net/RFfBC.png)
+![](https://raw.githubusercontent.com/ghufronalwi/PytestAPITest/master/ss-pytest-cli.png)
+![](https://raw.githubusercontent.com/ghufronalwi/PytestAPITest/master/ss-pytest-html-report.png)
